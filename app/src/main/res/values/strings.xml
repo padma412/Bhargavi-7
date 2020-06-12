@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">App Navigation-2</string>
+    <string name="matter">
+        \n\n Neque porro quisquam est
+        \n   qui dolorem ipsum quia
+        \n      dolor sit amet,
+        \n consectetur ,adipisci
+        \n        velit...
+    </string>
+    <string name="matter2">
+        \n Lorem Ipsum is simply dummy text
+        \n         of the printing
+        \n and typesetting industry. Lorem
+        \n the industry standard dummy
+        \n        text ever since
+        \n the 1500s, when an unknown printer
+        \n     took a gallery of type and
+        \n scrambled it to make a type
+        \n        spicemen book.
+    </string>
+    <string name="next">NEXT</string>
+    <string name="pre">PREI</string>
+    <string name="get">Get Started</string>
+</resources>
